@@ -1,2 +1,1 @@
-# ekolgrupnova
-# ekolgrup-admin
+# ekolgrup
